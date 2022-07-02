@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\kiran\Desktop\Med-app\src\App.test.js">
+    <testCase name="renders Homepage title" duration="518"/>
+    <testCase name="renders FileUploads title" duration="252"/>
+  </file>
+</testExecutions>
